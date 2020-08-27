@@ -1,5 +1,5 @@
-# REST API en CodeIgniter
+# REST API in CodeIgniter
 
-Implementando una API REST en php con CodeIgniter.
+Implementing a REST API in php with CodeIgniter
 
-Este proyecto tiene licencia bajo los términos de la licencia MIT.
+This project is licensed under the terms of the MIT license
